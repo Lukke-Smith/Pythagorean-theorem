@@ -1,6 +1,6 @@
 #Math project
 
-
+#Some of the notes are in spanish sorry
 
 
 #Teorema de pitagoras
@@ -31,13 +31,13 @@ if c == 0 :
 
 elif a == 0 :
 
-      cateto_1 = c**2 - b**2
-      print(cateto_1)
+      a_squared = c**2 - b**2
+      print(a_squared)
       
 
 elif b ==  0 :
-     cateto_2 = c**2 - a**2
-     print(cateto_2)
+      b_squared = c**2 - a**2
+     print(b_squared)
      
 
 
